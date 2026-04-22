@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build and Temporary files
+*.zip
+*.docx
+*.pdf
+*.mkv
+*.md
+!README.md
+!system_prompt.md
+!pricing_prompt.md
+.~lock.*
+
+# IDE / OS
+.claude/
+.env
+*.DS_Store
